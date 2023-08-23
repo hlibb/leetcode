@@ -68,7 +68,7 @@ public class AddTask {
         try {
             // Replace these values with your actual commit message and branch name
             String commitMessage = "Committing changes via Java";
-            String branchName = "main"; // Replace with your desired branch name
+            String branchName = "master"; // Replace with your desired branch name
 
             // Execute the git add, commit, and push commands
             ProcessBuilder processBuilder = new ProcessBuilder();
