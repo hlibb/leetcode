@@ -29,5 +29,5 @@ public class RemoveLinkedListElements203Test {
         assertEquals(5, newHead.next.next.next.next.val);
         assertNull(newHead.next.next.next.next.next);
     }
-    }
+}
 
